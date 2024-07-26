@@ -1,0 +1,3 @@
+/Users/edwardvas/Desktop/Proyecto-Progra-P4/cmake-build-debug/CMakeFiles/SLFG.dir
+/Users/edwardvas/Desktop/Proyecto-Progra-P4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwardvas/Desktop/Proyecto-Progra-P4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
